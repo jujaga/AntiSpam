@@ -163,7 +163,7 @@ namespace AntiSpam
 		}
 		void OnSendData(SendDataEventArgs e)
 		{
-			if (e.MsgId == PacketTypes.ChatText && !e.Handled)
+			if (e.MsgId == PacketTypes.LoadNetModule && !e.Handled)
 			{
 				if (Config.DisableBossMessages && e.number2 == 175 && e.number3 == 75 && e.number4 == 255)
 				{

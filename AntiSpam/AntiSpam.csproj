@@ -37,18 +37,18 @@
   <ItemGroup>
     <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=null">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\Server\Newtonsoft.Json.dll</HintPath>
+      <HintPath>..\..\Tshock-refs\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="OTAPI">
-      <HintPath>..\..\Server\OTAPI.dll</HintPath>
+      <HintPath>..\..\Tshock-refs\OTAPI.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="TerrariaServer">
-      <HintPath>..\..\Server\TerrariaServer.exe</HintPath>
+      <HintPath>..\..\Tshock-refs\TerrariaServer.exe</HintPath>
     </Reference>
     <Reference Include="TShockAPI">
-      <HintPath>..\..\Server\ServerPlugins\TShockAPI.dll</HintPath>
+      <HintPath>..\..\Tshock-refs\TShockAPI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
