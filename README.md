@@ -1,6 +1,7 @@
 # AntiSpam
-![Version 1.2.0](https://img.shields.io/badge/Version-1.2.0-blue.svg)
-![API 2.0](https://img.shields.io/badge/API-2.0-green.svg)
+![Version 1.2.1](https://img.shields.io/badge/Version-1.2.1-blue.svg)
+![API 2.1](https://img.shields.io/badge/API-2.1-green.svg)
+[![Build status](https://ci.appveyor.com/api/projects/status/k15jfavmee442ok1?svg=true)](https://ci.appveyor.com/project/jujaga/antispam)
 
 Introduction
 -----
